@@ -1,0 +1,26 @@
+# Build output and generated data
+/target/
+/build/
+/data/
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ilk
+
+# Temporary editor and operating system files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.vscode/.browse.VC.db
+.vscode/ipch/
